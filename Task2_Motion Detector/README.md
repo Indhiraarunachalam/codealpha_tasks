@@ -26,5 +26,3 @@ The PIR sensor detects movement. When motion is detected, the Arduino turns ON t
 ## Output
 
 The system successfully detects motion and provides visual and audio alerts.
-
-The system successfully detects motion and provides visual and audio alerts.
